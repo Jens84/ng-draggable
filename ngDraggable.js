@@ -362,9 +362,9 @@ angular.module("ngDraggable", [])
           isTouching(obj.x, obj.y, obj.element);
 
           if (attrs.ngDragMove) {
-            $timeout(function () {
-              onDragMoveCallback(scope, {$data: obj.data, $event: obj});
-            });
+            //$timeout(function () {
+            onDragMoveCallback(scope, {$data: obj.data, $event: obj});
+            //});
           }
         };
 
