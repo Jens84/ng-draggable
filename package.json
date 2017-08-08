@@ -1,6 +1,6 @@
 {
   "name": "ngDraggable",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Drag and drop module for Angular JS",
   "main": "ngDraggable.js",
   "repository": {
