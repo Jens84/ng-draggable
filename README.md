@@ -1,16 +1,16 @@
-ngDraggable
+ng-draggable
 ===========
 
-Drag and drop module for Angular JS with support for touch devices. [`demo`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example.html).
+Drag and drop module for Angular JS with support for touch devices. [`demo`](http://htmlpreview.github.io/?https://github.com/Jens84/ng-draggable/blob/master/example.html).
 
 ### Usage:
 
-- Install: `bower install ngDraggable`
-- Add `angular` and `ngDraggable` to your code:
+- Install: `bower install ng-draggable`
+- Add `angular` and `ng-draggable` to your code:
 
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
-<script src="ngDraggable.js"></script>
+<script src="ng-draggable.js"></script>
 ```
 
 - Add a dependency to the `ngDraggable` module in your application.
@@ -60,13 +60,13 @@ app.controller('MainCtrl', function ($scope) {
 ```
 
 ## Examples
-[`Drag and drop`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example.html).
+[`Drag and drop`](http://htmlpreview.github.io/?https://github.com/Jens84/ng-draggable/blob/master/example.html).
 
-[`Re-ordering`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example-reorder.html).
+[`Re-ordering`](http://htmlpreview.github.io/?https://github.com/Jens84/ng-draggable/blob/master/example-reorder.html).
 
-[`Cloning`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example-clone.html).
+[`Cloning`](http://htmlpreview.github.io/?https://github.com/Jens84/ng-draggable/blob/master/example-clone.html).
 
-[`Canceling`](http://htmlpreview.github.io/?https://github.com/fatlinesofcode/ngDraggable/blob/master/example-cancel.html).
+[`Canceling`](http://htmlpreview.github.io/?https://github.com/Jens84/ng-draggable/blob/master/example-cancel.html).
 
 ## Pull requests
 We welcome pull requests but please check that all the examples still work if you modified the source base. There have been serveral PRs recently that broke core functionality. If you are feeling really keen you could include some protractor test cases in your PR.
