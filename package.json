@@ -1,14 +1,14 @@
 {
-  "name": "ngDraggable",
+  "name": "ng-draggable",
   "version": "0.1.11",
   "description": "Drag and drop module for Angular JS",
-  "main": "ngDraggable.js",
+  "main": "ng-draggable.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jens84/ngDraggable.git"
+    "url": "git+https://github.com/Jens84/ng-draggable.git"
   },
   "bugs": {
-    "url": "https://github.com/Jens84/ngDraggable/issues"
+    "url": "https://github.com/Jens84/ng-draggable/issues"
   },
-  "homepage": "https://github.com/Jens84/ngDraggable#readme"
+  "homepage": "https://github.com/Jens84/ng-draggable#readme"
 }

@@ -1,8 +1,8 @@
 {
-  "name": "ngDraggable",
+  "name": "ng-draggable",
   "version": "0.1.11",
-  "main": "ngDraggable.js",
-  "homepage": "https://github.com/Jens84/ngDraggable",
+  "main": "ng-draggable.js",
+  "homepage": "https://github.com/Jens84/ng-draggable",
   "ignore": [
     "**/.*",
     "node_modules",
